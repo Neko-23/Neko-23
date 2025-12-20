@@ -1,5 +1,4 @@
-
-- 
+Recent Computer Science Master's graduate from the University of Maryland.
 
 <!---
 Neko-23/Neko-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
